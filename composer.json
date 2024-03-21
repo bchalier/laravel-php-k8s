@@ -20,7 +20,7 @@
         }
     ],
     "require": {
-        "bchalier/php-k8s": "^1.0"
+        "bchalier/php-k8s": "3.9.0"
     },
     "autoload": {
         "psr-4": {
